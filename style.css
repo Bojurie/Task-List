@@ -1,0 +1,27 @@
+body {
+  color: rgba(31, 157, 62, 0.912);
+}
+.card-title {
+  text-align: center;
+}
+.card{
+  background: rgba(48, 48, 48, 0.885);
+}
+
+.btn {
+  background:rgba(22, 55, 136, 0.953);
+  color: rgb(31, 157, 62);
+}
+.btn:hover {
+  background: rgb(12, 12, 44);
+  color:inherit;
+}
+.copy {
+  text-align: center;
+}
+.fa-remove {
+  color:rgba(31, 157, 62, 0.912);
+}
+.fa-remove:hover {
+  color: red;
+}
